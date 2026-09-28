@@ -5,7 +5,6 @@
 Sou estudante e desenvolvedor Front-End em formação, apaixonado por tecnologia e criação de projetos para a web. Atualmente, estudo HTML, CSS e JavaScript e busco transformar cada projeto em uma oportunidade para aprender e evoluir.
 
 Meu foco é criar sites modernos, responsivos e funcionais para pequenos negócios, ajudando empresas a terem uma presença profissional na internet. Estou sempre buscando aprimorar minhas habilidades e transformar ideias em experiências digitais.
-".
 
 
 ---
